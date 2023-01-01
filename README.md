@@ -1,7 +1,7 @@
 <!-- Thuan -->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/Thuan1303.svg" width="1200" alt="Click to see the source" />
-</a>
+</a> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
